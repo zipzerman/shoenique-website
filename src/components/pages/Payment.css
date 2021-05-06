@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:'Montserrat', sans-serif;
+  }
+
+
+.Checkout{
+  font-family:'Montserrat', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin-left: 140px;
+  color: #19ffa7;
+  margin-top: 50px;
+}
+.paymentform{
+  border-radius: 10px;
+  padding-bottom:10px;
+  background-color:rgba(27, 27, 27, 0.5);
+  color:aliceblue;
+  width: 40%;
+  height:80%;
+  box-sizing: border-box;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.head2-1{
+  margin-top: 60px;
+  color: #19ffa7;
+}
+
+.head2-2{
+  margin-top: 10px;
+  color: #19ffa7;  
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.textinput{
+  width: 50%;
+  border-radius: 3px;
+}
+
+.addressinput{
+  width: 50%;
+  border-radius: 3px;
+}
+
+.checkoutbtn{
+  margin-bottom: 30px;
+  width: 50%;
+  margin-top: 20px;
+  background-color: #19ffa7; /* Green */
+  border-radius: 25px;
+  color: black; 
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.checkoutbtn:hover {
+
+  color: white;
+}
+

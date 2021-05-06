@@ -1,0 +1,21 @@
+.head {
+  position: relative;
+  top: 100px;
+  left: 100px;
+  color: white;
+}
+
+.form-inputs {
+  position: relative;
+  top: 150px;
+  left: 120px;
+  color: #fff;
+}
+
+.form-input {
+  position: relative;
+  left: 20px;
+  outline: none;
+  padding: 4px;
+  border-radius: 20px;
+}
